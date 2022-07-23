@@ -1,7 +1,7 @@
 import React from "react";
 
 const Home = () => {
-  return <div>Welcome to Miko!</div>;
+  return <div>React boilerplate!</div>;
 };
 
 export default Home;
